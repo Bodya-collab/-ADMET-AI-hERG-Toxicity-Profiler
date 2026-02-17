@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+rdkit
+scikit-learn
+xgboost
+shap
+chembl_webresource_client
+matplotlib
+seaborn
+pickle-mixin

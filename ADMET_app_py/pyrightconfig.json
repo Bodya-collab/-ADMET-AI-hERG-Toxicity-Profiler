@@ -1,0 +1,10 @@
+{
+    "typeCheckingMode": "off",
+    "pythonVersion": "3.13",
+    "pythonPath": "C:\\Users\\богдан\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+    "venvPath": ".",
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__"
+    ]
+}
